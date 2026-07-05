@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "semgrep": {
+      "command": "C:\\Users\\asistente.auditoria1\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\uvx.exe",
+      "args": [
+        "semgrep-mcp",
+        "--transport",
+        "stdio",
+        "--semgrep-path",
+        "C:\\Users\\asistente.auditoria1\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\semgrep.exe"
+      ],
+      "timeout": 600000
+    }
+  }
+}
